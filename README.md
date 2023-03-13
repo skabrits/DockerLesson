@@ -13,7 +13,7 @@
 
 ## Полезные ссылочки
 
-- [AJAX](https://www.python.org/downloads/)
+- [AJAX](http://api.jquery.com/jquery.ajax/)
 - [DJANGO](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
 - [Django integrated DB](https://docs.djangoproject.com/en/4.1/intro/tutorial02/)
 - [MongoDB](https://www.mongodb.com/languages/python)
